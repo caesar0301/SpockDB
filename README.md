@@ -1,0 +1,2 @@
+# SpockDB
+Distributed hypergraph database
